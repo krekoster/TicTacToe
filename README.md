@@ -1,2 +1,2 @@
-# tic-tac-toe
-tic-tac-toe game for The_Odin_Project
+TicTacToe
+TicTacToe project  for The_Odin_Project
